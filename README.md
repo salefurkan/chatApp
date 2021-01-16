@@ -1,4 +1,4 @@
-# private_chat_app
+# Flutter Firebase Chat APP
 
 A new Flutter project.
 
